@@ -20,5 +20,5 @@ and stabilizing the WSP. Enhanced yearly saving by 7.5 crore approx. at National
 District, State, and Region. Validated results through multiple statistical tests, including chi-square, student t-test, and ANOVA.
 
 ## How to use:
-- Change the "Path" of Datasets directory in `ipynb` Notebooks.
+- Change the `Path` of Datasets directory in `ipynb` Notebooks.
 - Run each script
